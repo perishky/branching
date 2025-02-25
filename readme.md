@@ -15,5 +15,9 @@ git push
 git branch b1
 git checkout b1
 ## edit readme.md
-
+git add readme.md
+git commit -m "edit readme (b1)"
+## * 03ae5b3 (HEAD -> b1) edit readme (b1)
+## * c97c514 (origin/main, main) readme
+git commit -m "edit 2 readme (b1)"
 ```
